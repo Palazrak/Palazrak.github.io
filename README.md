@@ -1,4 +1,4 @@
-# Cientifico de datos
+# Presentación personal
 
 **Estudiante de Ciencia de Datos en el Instituto Tecnológico Autónomo de México (ITAM)**
 
@@ -27,10 +27,12 @@ Aquí hay un ejemplo de las curvas de rotación de NGC 55 y una foto de dicha ga
 Y aquí una tabla con los resultados de 4 galaxias a las que les apliqué el modelo:
 
 ![](/assets/img/Resultados.png)
-> A gamma se le conoce como "Mass to light Ratio"; a mayor gamma, mayor el porcentae de materia obscura respecto a la masa total.
+> A gamma se le conoce como "Mass to light Ratio"; a mayor gamma, mayor el porcentaje de materia obscura respecto a la masa total.
+
+Aquí dejo un PDF del trabajo escrito que realicé sobre este tema; éste contiene una mejor explicación del modelo que plantee y mas informacion sobre el procedimiento seguido:
+[Ver PDF](https://github.com/Palazrak/Palazrak.github.io/blob/main/Alazraki.pdf)
 
 Me parece fascinante como entre mas ha pasado el tiempo, más nos hemos dado cuenta de que no conocemos pracicamente nada sobre el universo. Aún así, cada vez tenemos más herramientas para seguir investigando, y hemos llegado a tal punto en el que o, desde mi computadora, puedo obtener los datos de un satélite en órbita que mide la rotacion de galaxias a millones de años luz de distancia. Lo que más me emociona es que en un universo donde solo el 3% es materia ordinaria y donde el 97% es completamente desconocido, ese 97% queda para la imaginacion, para la investigación y para la creatividad humana.
-
 
 ## Repositorios de algunos proyectos realizados 
 
