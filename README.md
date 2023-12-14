@@ -18,16 +18,24 @@ A partir de estas curvas de rotación, fui capaz de plantear un modelo sencillo 
 
 Aquí hay un ejemplo de las curvas de rotación de NGC 55 y una foto de dicha galaxia (foto tomada y procesada por mí):
 
+![](./assets/img/NGC55_LRGB.jpg)
+> Foto tomada a traves de ITelescope y procesada en PixInsight
+
+![](./assets/img/NGC55_grafica.png)
+> Análisis de datos hecho en Pandas
 
 Y aquí una tabla con los resultados de 4 galaxias a las que les apliqué el modelo:
+
+![](./assets/img/Resultados.png)
+> A gamma se le conoce como "Mass to light Ratio"; a mayor gamma, mayor el porcentae de materia obscura respecto a la masa total.
 
 Me parece fascinante como entre mas ha pasado el tiempo, más nos hemos dado cuenta de que no conocemos pracicamente nada sobre el universo. Aún así, cada vez tenemos más herramientas para seguir investigando, y hemos llegado a tal punto en el que o, desde mi computadora, puedo obtener los datos de un satélite en órbita que mide la rotacion de galaxias a millones de años luz de distancia. Lo que más me emociona es que en un universo donde solo el 3% es materia ordinaria y donde el 97% es completamente desconocido, ese 97% queda para la imaginacion, para la investigación y para la creatividad humana.
 
 
 ## Repositorios de algunos proyectos realizados 
 
-- (Árbol AVL) [https://github.com/Palazrak/ArbolAVL]
-- (Árbol ALZ) [https://github.com/Palazrak/ArbolALZ]
-- (Proceso completo de ETL: The Cocktail DB) [https://github.com/Palazrak/ProyectoNoSQL]
+- [Árbol AVL](https://github.com/Palazrak/ArbolAVL)
+- [Árbol ALZ](https://github.com/Palazrak/ArbolALZ)
+- [Proceso completo de ETL: The Cocktail DB](https://github.com/Palazrak/ProyectoNoSQL)
 
 Cada repositorio contiene un README con más informacion sobre cada proyecto.
