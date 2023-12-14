@@ -12,7 +12,7 @@ Algo que me encanta de la ciencia de datos es cómo da tanta libertad de poder a
 
 ## Sobre algo que me apasiona:
 
-Recientemente, tuve la oportunidad de aplicar algunas cosas que he aprendido en la carrera para algo que me encanta: la astronomía. Siempre he sido un apasionado por el universo, y para un proyecto realicé un análisis de los datos de SPARC (___Spitzer Photometry & Accurate Rotation Curves___), una base de datos que contiene la información y las curvas de rotación de 175 galaxias; con esta información pude obtener a lo que se le conoce como "curvas de rotación".
+Recientemente, tuve la oportunidad de aplicar algunas cosas que he aprendido en la carrera para algo que me encanta: la astronomía. Siempre he sido un apasionado por el universo, y para un proyecto realicé un análisis de los datos de SPARC (_Spitzer Photometry & Accurate Rotation Curves_), una base de datos que contiene la información y las curvas de rotación de 175 galaxias; con esta información pude obtener a lo que se le conoce como "curvas de rotación".
 
 A partir de estas curvas de rotación, fui capaz de plantear un modelo sencillo que podía aproximar la cantidad de materia obscura que contenían estas galaxias, para después graficar las curvas de rotación y poder obtener el porcentaje de materia obscura respecto a la materia total de las galaxias.
 
