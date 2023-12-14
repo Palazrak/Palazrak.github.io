@@ -6,9 +6,29 @@
 
 Soy una persona entusiasta, apasionada por la ciencia y por las artes. Mi sueño es poder aplicar la ciencia de datos en alguna rama de investigación que tenga un impacto positivo en la sociedad, aunque aún no me decido si quiero enfocarme en climatología o en sismología.
 
-## Por qué Ciencia de Datos 
+### Por qué Ciencia de Datos 
 
 Algo que me encanta de la ciencia de datos es cómo da tanta libertad de poder aplicar las herramientas tecnológicas que tengas a tu disposición para poder aplicarlas a lo que te apasiona. Al ser tan versátil, te permite adaptarte a cualquier cosa en la que quieras aplicar tus conocimientos, desde negocios e investigación hasta aplicaciones en arte y en proyectos con impacto social.
+
+### Mi experiencia en cine: 
+
+He tenido la oportunidad de participar en varios rodajes como un rol llamado “operador de Asteras”. Básicamente me encargo de fijar iluminación usando unas luces LED de la marca Astera. Mas que nada he podido participar en videoclips y comerciales, y ha sido una experiencia sumamente enriquecedora poder trabajar en algo completamente ajeno a lo que estudio. Creo que es increíble poder darme un cambio de aires de vez en cuando y poder conocer mucho de muchas áreas distintas
+
+![](/assets/img/set.jpg)
+
+### Mi gusto por la fotografía de lo común
+
+Siempre me ha gustado fijarme en los pequeños detalles: al caminar por la calle, normalmente me detengo a tomar fotos de flores que encuentro y que me parecen bonitas, o de paisajes que me parezcan llamativos. Nunca he tomado clases profesionales de fotografía, ni soy realmente bueno, pero estar en el medio del cine me ha enseñado algunas cosas básicas sobre composición e iluminación para poder capturar momentos bonitos dentro de nuestra rutina y nuestro día a día.
+
+Aquí algunas fotos que he tomado de flores:
+
+![](/assets/img/flor_1.jpg)
+![](/assets/img/flor_2.jpg)
+
+Y de algunos paisajes:
+
+![](/assets/img/paisaje_1.jpg)
+![](/assets/img/paisaje_2.jpg)
 
 ## Sobre algo que me apasiona:
 
