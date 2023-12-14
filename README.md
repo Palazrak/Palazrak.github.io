@@ -4,11 +4,11 @@
 
 ## Sobre mí
 
-Soy una persona entusiasta, apasionada por la ciencia y por las artes. Tengo una excelente capacidad de reaccion y una buena adaptabilidad a las circunstancias.
+Soy una persona entusiasta, apasionada por la ciencia y por las artes. Mi sueño es poder aplicar la ciencia de datos en alguna rama de investigación que tenga un impacto positivo en la sociedad, aunque aún no me decido si quiero enfocarme en climatología o en sismología.
 
 ## Por qué Ciencia de Datos 
 
-Algo que me encanta de la ciencia de datos es cómo da mucha libertad de poder aplicar todas las herramientas tecnológicas que tengas a tu disposición para poder aplicarlas a lo que te apasiona.
+Algo que me encanta de la ciencia de datos es cómo da tanta libertad de poder aplicar todas las herramientas tecnológicas que tengas a tu disposición para poder aplicarlas a lo que te apasiona. Al ser tan versátil, te permite adaptarte a cualquier cosa en la que quieras aplicar tus conocimientos, desde negocios e investigación hasta aplcaciones en arte y en proyectos con impacto social.
 
 ## Sobre algo que me apasiona:
 
@@ -29,3 +29,5 @@ Me parece fascinante como entre mas ha pasado el tiempo, más nos hemos dado cue
 - (Árbol AVL) [https://github.com/Palazrak/ArbolAVL]
 - (Árbol ALZ) [https://github.com/Palazrak/ArbolALZ]
 - (Proceso completo de ETL: The Cocktail DB) [https://github.com/Palazrak/ProyectoNoSQL]
+
+Cada repositorio contiene un README con más informacion sobre cada proyecto.
